@@ -1,4 +1,4 @@
-# 📌 PDS Data Analysis & Visualization Projects
+# 📌 Data Analysis & Visualization Projects
 
 🚀 **A comprehensive data analysis and visualization project using Python. This repository includes Titanic dataset analysis, missing data handling, dataset merging, and K-Means clustering.**
 
