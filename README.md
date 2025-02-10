@@ -67,13 +67,16 @@ This repository contains two major projects and one assignment:
 ## 📈 Results & Visualizations
 
 ### **Survival Count by Gender:**
-![Survival vs Gender](survival_by_gender.png)  
+![Survival vs Gender](images/survival_by_gender.png)  
 
-### **Survival Count by Class:**
-![Survival by Class](survival_by_class.png)  
+### **Survival Count by Passenger Class:**
+![Survival by Passenger Class](images/survival_by_class.png)  
+
+### **Survival Count by Age Class:**
+![Survival by Age Class](images/survival_by_age_class.png)
 
 ### **K-Means Clustering Results:**
-![K-Means Clustering](kmeans_clusters.png)  
+![K-Means Clustering](images/kmeans_clusters.png)  
 
 ---
 
