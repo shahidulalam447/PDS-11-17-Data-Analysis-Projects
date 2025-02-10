@@ -1,19 +1,25 @@
-# 📌 Data Analysis & Visualization Projects
+# 📌 Data Analysis & Visualization Projects, Assignment
 
-🚀 **A comprehensive data analysis and visualization project using Python. This repository includes Titanic dataset analysis, missing data handling, dataset merging, and K-Means clustering.**
+**A comprehensive data analysis and visualization project using Python. This repository includes Titanic dataset analysis, missing data handling, dataset merging, and K-Means clustering.**
 
 ---
 
 ## 📂 Project Overview
 
-This repository contains two major projects:
+This repository contains two major projects and one assignment:
 
 1️⃣ **Project 1: Titanic Data Analysis & Visualization**  
 - Load and preprocess Titanic dataset  
 - Handle missing data effectively  
 - Perform exploratory data analysis (EDA)  
 - Visualize survival rates by different categories  
-- Categorize passengers based on age groups  
+- Categorize passengers based on age groups
+
+1️⃣ **Assignment(Task-5): Scatter plot of Dead Passengers with Number of Relatives and Age**  
+- Load and preprocess Titanic dataset  
+- Create the 'Number of Relatives' column  
+- Filter the dataset for dead passengers (Survived == 0)  
+- Create the scatter plot  
 
 2️⃣ **Project 2: Dataset Merging & K-Means Clustering**  
 - Merge multiple datasets  
@@ -24,9 +30,7 @@ This repository contains two major projects:
 ---
 
 ## 📜 Table of Contents
-- [Installation](#installation)
 - [Project Details](#project-details)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Results & Visualizations](#results--visualizations)
 - [Contributing](#contributing)
@@ -34,22 +38,12 @@ This repository contains two major projects:
 
 ---
 
-## 🛠 Installation
-
-Clone this repository and install the required dependencies:
-
-```bash
-git clone https://github.com/shahidulalam447/PDS-11-17-Data-Analysis-Projects.git
-cd PDS-Data-Analysis-Projects
-pip install -r requirements.txt
-```
-
----
-
 ## 📊 Project Details
 
 ### **Project 1: Titanic Data Analysis**
-✅ Load Titanic dataset from [here](https://raw.githubusercontent.com/PulockDas/pd-12-resources/refs/heads/master/titanic.csv)  
+✅ Load Titanic dataset from [here](https://github.com/shahidulalam447/PDS-11-17-Data-Analysis-Projects/blob/47ce9b98f2188f002297b3139cf33462b72a9c19/data/titanic.csv)  
+✅ Or Load Titanic dataset from [here](https://raw.githubusercontent.com/PulockDas/pd-12-resources/refs/heads/master/titanic.csv) 
+
 ✅ Identify missing values and handle them efficiently  
 ✅ Create age categories and visualize survival rate  
 ✅ Generate bar plots for survival analysis  
@@ -59,20 +53,6 @@ pip install -r requirements.txt
 ✅ Calculate best and average marks for students  
 ✅ Apply **K-Means clustering** to categorize students  
 ✅ Visualize clusters for better understanding  
-
----
-
-## 📌 Usage
-
-### **Run Titanic Data Analysis**
-```bash
-python titanic_analysis.py
-```
-
-### **Run K-Means Clustering on Student Data**
-```bash
-python student_clustering.py
-```
 
 ---
 
@@ -86,14 +66,14 @@ python student_clustering.py
 
 ## 📈 Results & Visualizations
 
-### **Survival Count by Gender**
-![Survival vs Gender](images/survival_by_gender.png)  
+### **Survival Count by Gender:**
+![Survival vs Gender](survival_by_gender.png)  
 
-### **Survival Count by Class**
-![Survival by Class](images/survival_by_class.png)  
+### **Survival Count by Class:**
+![Survival by Class](survival_by_class.png)  
 
-### **K-Means Clustering Results**
-![K-Means Clustering](images/kmeans_clusters.png)  
+### **K-Means Clustering Results:**
+![K-Means Clustering](kmeans_clusters.png)  
 
 ---
 
