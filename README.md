@@ -30,14 +30,14 @@ This repository contains two major projects and one assignment:
 ---
 
 ## 📜 Table of Contents
-- [Project Details](#project-details)
-- [Technologies Used](#technologies-used)
-- [Results & Visualizations](#results--visualizations)
+- [Project Details](#project)
+- [Technologies Used](#technologies)
+- [Results & Visualizations](#results)
 - [Contributing](#contributing)
 - [License](#license)
 
 ---
-
+<a id="project"></a>
 ## 📊 Project Details
 
 ### **Project 1: Titanic Data Analysis**
@@ -55,7 +55,7 @@ This repository contains two major projects and one assignment:
 ✅ Visualize clusters for better understanding  
 
 ---
-
+<a id="technologies"></a>
 ## 🛠 Technologies Used
 - **Python**  
 - **Pandas** (Data Manipulation)  
@@ -63,7 +63,7 @@ This repository contains two major projects and one assignment:
 - **Scikit-learn** (K-Means Clustering)  
 
 ---
-
+<a id="results"></a>
 ## 📈 Results & Visualizations
 
 ### **Survival Count by Gender:**
@@ -79,7 +79,7 @@ This repository contains two major projects and one assignment:
 ![K-Means Clustering](images/kmeans_clusters.png)  
 
 ---
-
+<a id="contributing"></a>
 ## 🤝 Contributing
 We welcome contributions! Follow these steps:
 1. **Fork** the repository  
@@ -90,6 +90,6 @@ We welcome contributions! Follow these steps:
 6. **Submit a Pull Request** 🚀  
 
 ---
-
+<a id="license"></a>
 ## 📜 License
 This project is licensed under the **MIT License**.  
