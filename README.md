@@ -39,7 +39,7 @@ This repository contains two major projects and one assignment:
 ---
 <a id="project"></a>
 ## 📊 Project Details
-
+You can see the pds_project.ipynb file of Project Work from [here](pds_project.ipynb)<br>
 ### **Project 1: Titanic Data Analysis**
 ✅ Load Titanic dataset from [here](https://github.com/shahidulalam447/PDS-11-17-Data-Analysis-Projects/blob/47ce9b98f2188f002297b3139cf33462b72a9c19/data/titanic.csv)  
 ✅ Or Load Titanic dataset from [here](https://raw.githubusercontent.com/PulockDas/pd-12-resources/refs/heads/master/titanic.csv) 
